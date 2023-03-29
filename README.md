@@ -49,7 +49,7 @@ How tu use Cypress
 
 ![Report]()   
 
-![image]()
+![image](https://github.com/MrClodd/Qustodio_byClod/blob/70768f57e9f127c23a2a7fc3ae689be4a8a31025/cypress/Cypress/screenshots/Web%20Qustodio.cy.js/App%20Qustodio%20--%20Login%20app%20ca%20be%20opened%20and%20connect%20a%20device.png)
 
 ## Video
 
