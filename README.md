@@ -1,4 +1,4 @@
-## <img src="https://www.qustodio.com/es/" align="left" width="50" />Tests QA DEV for Qustodio 
+## <img src="https://auth.qustodio.com/public/assets/images/brand/logo--mobile--rebrand.png" align="left" width="50" />Tests QA DEV for Qustodio 
 
 ## 📫 <a name="section-installation">Getting Started</a>
 
