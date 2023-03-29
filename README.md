@@ -53,7 +53,7 @@ How tu use Cypress
 
 ## Video
 
-[![Watch the video](https://github.com/MrClodd/StoreZara_byClod/blob/bd2b406ecaf629bc7bfef1bcae6618df3dac4c50/cypress/videos/video%20scrren.png)](https://github.com/MrClodd/Qustodio_byClod/blob/26d1392a71a87acf94492557de3d3a83f4f28171/cypress/Cypress/videos/Web%20Qustodio.cy.js.mp4)
+[![Watch the video]()](https://github.com/MrClodd/Qustodio_byClod/blob/26d1392a71a87acf94492557de3d3a83f4f28171/cypress/Cypress/videos/Web%20Qustodio.cy.js.mp4)
 
 
 <img src="" width=100% height=100%>
